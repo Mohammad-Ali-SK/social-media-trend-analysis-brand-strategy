@@ -135,7 +135,7 @@ Only include files that are actually present in the repository. Before uploading
 
 ## Acknowledgement
 
-This project was completed as part of the BCA (Data Analytics) programme at Amity University Online during the 2025–2026 academic year.
+This project was completed as part of the BCA (Data Analytics) programme at Amity University during the 2025–2026 academic year.
 
 ---
 
